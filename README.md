@@ -4,14 +4,14 @@ Bu repo kdluyoruz Front-End Eğitiminin Css bölümünde oluşturduğum ikinci r
 # Installation
 Öncelikle proeyi clonelayın.
 ```
-git clone https://github.com/Unrule1/CSS-ilk-repo.git
+git clone https://github.com/Unrule1/css-ikinci-repo.git
 ```
 # Usage
 Proeyi cloneladıktan sonra Visual Studio Code programında açınız
 
 Linux için:
 ```
-cd CSS-ilk-repo
+cd css-ikinci-repo
 code .
 ```
 
